@@ -1,0 +1,33 @@
+.navbar {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.BstabgAbvYXFJZFbEmM8ggHaEo&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+width: 60%;
+margin-left: 200px;
+  }
+  
+  .navbar .navbar-brand,
+  .navbar .nav-link,
+  .navbar .navbar-toggler-icon {
+    color: white !important;
+  }
+  
+  .navbar .nav-link:hover,
+  .navbar .navbar-brand:hover {
+    color: lightgray !important;
+  }
+  
+  .navbar .btn-outline-danger {
+    color: white;
+    border-color: white;
+  }
+  
+  .navbar .btn-outline-danger:hover {
+    color: red;
+    background-color: white;
+    border-color: white;
+  }
+  .signout{
+    background: linear-gradient(to right, #5906b3, rgb(20, 114, 168));
+  }

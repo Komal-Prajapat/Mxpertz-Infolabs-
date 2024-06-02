@@ -1,0 +1,72 @@
+body {
+  background: #1b1212;
+}
+
+.homedata {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card {
+  background: linear-gradient(to right, #5906b3, rgb(20, 114, 168));
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  top: -200px;
+}
+.custom-button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+}
+
+.btn1 {
+  background-color: blue;
+  color: white;
+}
+
+.btn2 {
+  background-color: orange;
+  color: white;
+}
+
+.btn3 {
+  background-color: greenyellow;
+  color: white;
+}
+
+.btn4 {
+  background: linear-gradient(to right, #5906b3, rgb(20, 114, 168));
+  color: black;
+}
+
+.homedata {
+  position: relative;
+  top: -500px;
+}
+
+.stories-list .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.readmorebtn {
+  background: linear-gradient(to right, #d3cadd, rgb(206, 236, 254));
+  width: 200px;
+  border-radius: 25px;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background: white; */
+  color: white;
+  position: relative;
+  top: -500px;
+}
